@@ -5,9 +5,13 @@ This is storefront app that will allow customers to select and purchase from the
 
 1. A MySQL Database was created and called bamazon_db.
 2. A bamazonCustomer.js file was created to access the database.
-3. The user/customer can access the app through their terminal.
-
-
+3. The user/customer can access the app through their terminal by typing in the command right below and then enter.
+#### node bamazonCustomer.js
+### Example
+![screenshot1](https://user-images.githubusercontent.com/30578501/34743594-19d65bc8-f53f-11e7-907c-f9512d31ff23.gif)
+4. The store inventory will be displayed in a table. The table will show the item id, the product name, the department name that the product is listed under, item price, and the stock quantity.
+5. The app will then "Welcome" the customer and tell the customer to enter the "item#" from the table for the product they would like to purchase and push enter.
+### Example
 
 
 

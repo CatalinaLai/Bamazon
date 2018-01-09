@@ -3,9 +3,11 @@ This is storefront app that will allow customers to select and purchase from the
 
 ## Steps to Use App
 
--A MySQL Database was created and called bamazon_db.
--A bamazonCustomer.js file was created to access the database.
--The user/customer can access the app through their terminal.
+1. A MySQL Database was created and called bamazon_db.
+2. A bamazonCustomer.js file was created to access the database.
+3. The user/customer can access the app through their terminal.
+
+
 
 
 

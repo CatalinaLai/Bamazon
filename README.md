@@ -22,6 +22,9 @@ This is storefront app that will allow customers to select and purchase from the
 ### Example
 ![screenshot3](https://user-images.githubusercontent.com/30578501/34744564-79570ba8-f542-11e7-9071-cac24a964800.gif)
 
-8. Finally, if the there are no more items of the product available the app will say "Sorry, we are out of stock of the 'product name". Come back anothertime."
+8. Finally, if the user selects a quantity of a product that's not available, the app will say "Sorry, we are out of stock of the "product name". Come back another time."
+
+### Example
+![screenshot4](https://user-images.githubusercontent.com/30578501/34745005-01fc7b0e-f544-11e7-8f02-98b702ac8bd9.gif)
 
 

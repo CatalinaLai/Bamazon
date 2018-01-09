@@ -16,4 +16,12 @@ This is storefront app that will allow customers to select and purchase from the
 ### Example
 ![screenshot2](https://user-images.githubusercontent.com/30578501/34744073-d37e5fa2-f540-11e7-9301-aa07d0b7a182.gif)
 
+6. Once the customer pushes enter, the app will provide the quantity the user selected, the item name, and the total cost.
+7. The store inventory will be updated on the table and displayed right after the total cost is shown to the user.
+
+### Example
+![screenshot3](https://user-images.githubusercontent.com/30578501/34744564-79570ba8-f542-11e7-9071-cac24a964800.gif)
+
+8. Finally, if the there are no more items of the product available the app will say "Sorry, we are out of stock of the 'product name". Come back anothertime."
+
 
